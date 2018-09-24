@@ -18,7 +18,7 @@ Banco de Dados em memória **H2**.
 Usuários podem comprar mais de um produtos(Sessão).
 Checkout é uma transação(example).
 
-# NOTES / NOTA
+# NOTE / NOTA
 
 ENDPOINT -> /products
 CRUD for Products
@@ -36,14 +36,17 @@ Quando iniciar a aplicação, vá no navegador no endereço `http://localhost:80
 ### HAL REST Browser
 
 Go to the web browser and visit `http://localhost:8080/`
-Vá no navegador no endereço `http://localhost:8080/`
+
+Abrir no navegador no endereço `http://localhost:8080/`
 
 PS** Check the app is run
+
 Obs** Checar se aplicação está rodando sem erros
 
 ### H2 Database web interface / Banco de dados WEB interface
 
 Go to the web browser and visit `http://localhost:8080/h2-console`
+
 Abrir o navegador no endereço `http://localhost:8080/h2-console`
 
 In field **JDBC URL** put 
